@@ -1,0 +1,116 @@
+{
+  "files": [
+    {
+      "file": "CLIP/CLIP.pdf",
+      "source": "Reading/ViT.pdf",
+      "kind": "paper",
+      "sha256": "6478b6e571a7d6fcd846d8ef77bfd60c285f1986abb8f475eedc43de403074f5",
+      "pages": 48,
+      "bytes": 6813639
+    },
+    {
+      "file": "ALBEF_BLIP_BLIP2/BLIP.pdf",
+      "source": "Reading/BLIP.pdf",
+      "kind": "paper",
+      "sha256": "63e0335cdd57c3d92b907b89c93d10befdd29b8aeed108091bbde90c121ed97a",
+      "pages": 12,
+      "bytes": 1303121
+    },
+    {
+      "file": "ALBEF_BLIP_BLIP2/BLIP-2.pdf",
+      "source": "Reading/Blip-2.pdf",
+      "kind": "paper",
+      "sha256": "6bc5d399d6127a64ace5167a2f0c00112a49725d2475d80322dbf0083f139e80",
+      "pages": 13,
+      "bytes": 6737540
+    },
+    {
+      "file": "CoViP/CoViP.pdf",
+      "source": "Reading/Covip.pdf",
+      "kind": "paper",
+      "sha256": "812617ced935b248375df77b0b2eeac65f3f8ca3d13dd913382eacea8b4469bd",
+      "pages": 36,
+      "bytes": 8740130
+    },
+    {
+      "file": "LSA/LSA.pdf",
+      "source": "Reading/LSA.pdf",
+      "kind": "paper",
+      "sha256": "2a2efefb87b9bbbc173850c157de6061e85eb0734259d9eae44222110917d00c",
+      "pages": 32,
+      "bytes": 2760313
+    },
+    {
+      "file": "Transformer/Attention_Is_All_You_Need.pdf",
+      "source": "https://arxiv.org/pdf/1706.03762v7",
+      "kind": "paper",
+      "sha256": "bdfaa68d8984f0dc02beaca527b76f207d99b666d31d1da728ee0728182df697",
+      "pages": 15,
+      "bytes": 2215244
+    },
+    {
+      "file": "ViT/ViT.pdf",
+      "source": "https://arxiv.org/pdf/2010.11929v2",
+      "kind": "paper",
+      "sha256": "8ce7b83971a14508ca711a27c875c9b6914c4f6767cf3150fb1ca6c07aa056d6",
+      "pages": 22,
+      "bytes": 3743814
+    },
+    {
+      "file": "ALBEF_BLIP_BLIP2/ALBEF.pdf",
+      "source": "https://arxiv.org/pdf/2107.07651v2",
+      "kind": "paper",
+      "sha256": "137c937c0834d8aa116bac93cae46cabe86cf7b7645f3b6339639b194273b229",
+      "pages": 16,
+      "bytes": 7739417
+    },
+    {
+      "file": "Transformer/transformer.pdf",
+      "source": "Other_Courses/Transformer/Notes/transformer.pdf",
+      "kind": "detailed_notes",
+      "sha256": "b7add6c17d36385fc8812cd9422cf82c0a1a8751a3d43c9e669228039f987396",
+      "pages": 3,
+      "bytes": 14054468
+    },
+    {
+      "file": "ViT/vision transformer.pdf",
+      "source": "Other_Courses/Vision_Transformer/Notes/vision transformer.pdf",
+      "kind": "detailed_notes",
+      "sha256": "d7e6d48a69858523ed9ef1e8aee47b45b50e34884d1855d3ae934fccbb634b04",
+      "pages": 2,
+      "bytes": 8522518
+    },
+    {
+      "file": "CLIP/contrastive learning and clip.pdf",
+      "source": "Other_Courses/Contrastive_Learning_and_CLIP/Notes/contrastive learning and clip.pdf",
+      "kind": "detailed_notes",
+      "sha256": "411aa894297b6d7a215f4dd157c4c9a0531c6bf5caa3b87f07cb3a944f93809f",
+      "pages": 4,
+      "bytes": 23893557
+    },
+    {
+      "file": "ALBEF_BLIP_BLIP2/ALBEF，BLIP and BLIP-2.pdf",
+      "source": "ALBEF，BLIP and BLIP-2.pdf",
+      "kind": "detailed_notes",
+      "sha256": "b1c92c934dafd9d336f006480b61c3dc25f034b2a6726bb14b7f5465c3ffb937",
+      "pages": 5,
+      "bytes": 41964240
+    },
+    {
+      "file": "CoViP/Covip- rough-reading.pdf",
+      "source": "Covip- rough-reading.pdf",
+      "kind": "rough_notes",
+      "sha256": "cf320231461660b5af2675a90f4d5527bfae50a60507df0cdb18ad5617109b5e",
+      "pages": 2,
+      "bytes": 8589284
+    },
+    {
+      "file": "LSA/LSA-rough-reading.pdf",
+      "source": "LSA-rough-reading.pdf",
+      "kind": "rough_notes",
+      "sha256": "ddaa318fc39fd2776fd0cf73e12a35a96cbe232856caf15dd37e3c01701b7cb9",
+      "pages": 3,
+      "bytes": 13799591
+    }
+  ]
+}
