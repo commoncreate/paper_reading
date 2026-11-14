@@ -11,8 +11,9 @@
 - [CoViP](CoViP/README.md) — 已粗读，精读笔记待补充。
 - [LSA](LSA/README.md) — 已粗读，精读笔记待补充。
 - [LLaVA](LLaVA/README.md) — 已有论文原文与学习笔记。
+- [MyVLM](MyVLM/README.md) — 已有论文原文与学习笔记。
 
-当前共七份笔记、九篇论文原文。每个文件夹的 README 标明文件角色和阅读状态。
+当前共八份笔记、十篇论文原文。每个文件夹的 README 标明文件角色和阅读状态。
 
 ## 组织约定
 
@@ -22,7 +23,7 @@
 
 ## 文件来源与保存
 
-六篇原文从本地 Reading 文件夹复制，Transformer、ViT、ALBEF 原文从 arXiv 补齐。Reading 中名为 ViT.pdf 的文件经首页核对实际为 CLIP 原文，已按内容归档为 CLIP/CLIP.pdf，真正的 ViT 原文另行补齐。
+六篇原文从本地 Reading 文件夹复制，MyVLM 原文从本人提供的桌面文件复制，Transformer、ViT、ALBEF 原文从 arXiv 补齐。Reading 中名为 ViT.pdf 的文件经首页核对实际为 CLIP 原文，已按内容归档为 CLIP/CLIP.pdf，真正的 ViT 原文另行补齐。
 
 笔记与本地论文副本逐份校验 SHA-256。原文件保留，具体来源、字节数、页数和哈希记录在 [manifest.json](manifest.json)。论文版权归原作者或出版方，阅读笔记来自本人学习记录。
 

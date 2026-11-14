@@ -127,6 +127,22 @@
       "sha256": "e4f2f2e96bfd91fb062915dca774b488d99fb77ff90ab0f938eced2c09cd4529",
       "pages": 2,
       "bytes": 12002752
+    },
+    {
+      "file": "MyVLM/Paper/MyVLM.pdf",
+      "source": "Desktop/MyVLM.pdf",
+      "kind": "paper",
+      "sha256": "3b3546e18df7755b2104f6701b8e4bbe337140e91000de0dc3dbee5edbea98f4",
+      "pages": 36,
+      "bytes": 38467361
+    },
+    {
+      "file": "MyVLM/Notes/MyVLM.pdf",
+      "source": "User-provided reading notes/MyVLM.pdf",
+      "kind": "detailed_notes",
+      "sha256": "080da119698e886b802316e093b6b9dc6132cdb426d97cea0ccc5545940b746d",
+      "pages": 3,
+      "bytes": 15757937
     }
   ]
 }
