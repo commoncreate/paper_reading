@@ -111,6 +111,22 @@
       "sha256": "ddaa318fc39fd2776fd0cf73e12a35a96cbe232856caf15dd37e3c01701b7cb9",
       "pages": 3,
       "bytes": 13799591
+    },
+    {
+      "file": "LLaVA/Paper/LLaVA.pdf",
+      "source": "Reading/LLaVA.pdf",
+      "kind": "paper",
+      "sha256": "dc8bace378a282ea78caa9b5959306202fbfa3b8cedaf8a66541a9af18f4d3bf",
+      "pages": 25,
+      "bytes": 5906135
+    },
+    {
+      "file": "LLaVA/Notes/LLaVA.pdf",
+      "source": "User-provided reading notes/LLaVA.pdf",
+      "kind": "detailed_notes",
+      "sha256": "e4f2f2e96bfd91fb062915dca774b488d99fb77ff90ab0f938eced2c09cd4529",
+      "pages": 2,
+      "bytes": 12002752
     }
   ]
 }
