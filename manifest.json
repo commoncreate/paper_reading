@@ -143,6 +143,22 @@
       "sha256": "080da119698e886b802316e093b6b9dc6132cdb426d97cea0ccc5545940b746d",
       "pages": 3,
       "bytes": 15757937
+    },
+    {
+      "file": "YoLLaVA/Paper/Yo'LLaVA.pdf",
+      "source": "Reading/Yo'LLaVA.pdf",
+      "kind": "paper",
+      "sha256": "e4033d210dc520f6bcd18b1a2f775930cc01af3cc81bf74b482038c179b46886",
+      "pages": 32,
+      "bytes": 22650581
+    },
+    {
+      "file": "YoLLaVA/Notes/Yo‘LLaVA.pdf",
+      "source": "User-provided reading notes/Yo‘LLaVA.pdf",
+      "kind": "detailed_notes",
+      "sha256": "f42876163d7dfeb905a8ad9b75c4a017e14c1e854893555104c3b4ff7fe6a51c",
+      "pages": 2,
+      "bytes": 11189924
     }
   ]
 }
