@@ -159,6 +159,22 @@
       "sha256": "f42876163d7dfeb905a8ad9b75c4a017e14c1e854893555104c3b4ff7fe6a51c",
       "pages": 2,
       "bytes": 11189924
+    },
+    {
+      "file": "RAP/Paper/RAP.pdf",
+      "source": "Reading/RAP.pdf",
+      "kind": "paper",
+      "sha256": "b0f834821ac12528d7a07925ba4e3b8d06e8cd9ebb4cef8cd15cae93b230c6fd",
+      "pages": 27,
+      "bytes": 21094329
+    },
+    {
+      "file": "RAP/Notes/RAP.pdf",
+      "source": "User-provided reading notes/RAP.pdf",
+      "kind": "detailed_notes",
+      "sha256": "c60461363853940fa05d51881b1d34ab4509f9ab38d0673f0bbd2156f4351d1b",
+      "pages": 3,
+      "bytes": 13792224
     }
   ]
 }
